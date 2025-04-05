@@ -21,11 +21,11 @@ This repository includes:
    
 
 ## 📚 Recommended Resources
--GeeksforGeeks
--LeetCode
--InterviewBit
--HackerRank
--Codeforces
+- GeeksforGeeks
+- LeetCode
+- InterviewBit
+- HackerRank
+- Codeforces
 
 
 ## ⭐ Support
