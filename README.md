@@ -1,1 +1,1 @@
-# tcs_nqt_pyq
+# DSA Practice questions
